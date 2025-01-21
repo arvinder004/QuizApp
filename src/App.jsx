@@ -3,7 +3,9 @@ import HistoryQuiz from './components/HistoryQuiz'
 
 const App = () => {
   return (
-    <HistoryQuiz/>
+    <div>
+      <HistoryQuiz/>
+    </div>
   )
 }
 
